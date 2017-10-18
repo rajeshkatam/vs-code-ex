@@ -4,7 +4,7 @@ App.controller('myCtrl',function($scope){
 		$scope.submitted=true;
 		if(isValid){
 			alert('Awesome')
-		}
+		 }
 	}
 	
 })
